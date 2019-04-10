@@ -1,0 +1,8 @@
+title: Notices-GitHub-pages-demo
+description: Prototype for hosting github pages with attachment to download !
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
